@@ -21,8 +21,8 @@
     "docs": "npx jsdoc --readme ./README.md --destination ./docs src/"
   },
   "peerDependencies": {
-    "react": "^17.0.2",
-    "html2canvas": "^1.3.3"
+    "html2canvas": "^1.4.1",
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
@@ -53,9 +53,9 @@
     "eslint-plugin-import": "^2.20.1",
     "gh-pages": "^2.0.1",
     "html2canvas": "^1.3.3",
-    "react": "^17.0.2",
-    "react-scripts": "^3.4.0",
-    "react-test-renderer": "^16.9.0",
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "react-test-renderer": "^18.2.0",
     "rollup": "^1.1.2",
     "rollup-plugin-babel": "^4.3.2",
     "rollup-plugin-commonjs": "^9.2.0",
